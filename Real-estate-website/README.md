@@ -1,3 +1,5 @@
+The project involves developing a comprehensive website that allows users to rent or buy houses. The platform aims to provide an intuitive and user-friendly interface for users to search for properties
+
 Project Demo : https://funny-daffodil-350bc9.netlify.app/  
 
-![screencapture-funny-daffodil-350bc9-netlify-app-2023-06-18-13_10_37](https://github.com/sunil9813/Real-estate-website/assets/67497228/011837d1-0937-40cd-8ea2-aa83aefaf649)
+video: https://youtu.be/tl0ma2UeO94?si=MZsgF6YiP4jyXw8h
